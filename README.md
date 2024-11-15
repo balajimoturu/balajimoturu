@@ -11,6 +11,8 @@ Concordia University, Montreal, QC, Canada
 ## 🛠️ Technical Skills
 
 <p align="center">
+  <a href="https://www.linux.org/"><img src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" alt="Linux" width="40" height="40" style="margin: 15px;"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" alt="MS Office" width="40" height="40" style="margin: 15px;"/></a>  
   <a href="https://www.java.com/"><img src="https://cdn.worldvectorlogo.com/logos/java.svg" alt="Java" width="40" height="40" style="margin: 15px;"/></a>
   <a href="https://www.python.org/"><img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" alt="Python" width="40" height="40" style="margin: 15px;"/></a>
   <a href="https://www.javascript.com/"><img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="40" height="40" style="margin: 15px;"/></a>
@@ -30,9 +32,21 @@ Concordia University, Montreal, QC, Canada
   <a href="https://www.docker.com/"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="40" height="40" style="margin: 15px;"/></a>
   <a href="https://kubernetes.io/"><img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="40" height="40" style="margin: 15px;"/></a>
   <a href="https://www.jenkins.io/"><img src="https://img.icons8.com/color/48/000000/jenkins.png" alt="Jenkins" width="40" height="40" style="margin: 15px;"/></a>
-  <a href="https://git-scm.com/"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40" style="margin: 15px;"/></a>
   <a href="https://www.tensorflow.org/"><img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="40" height="40" style="margin: 15px;"/></a>
   <a href="https://www.tableau.com/"><img src="https://img.icons8.com/color/48/000000/tableau-software.png" alt="Tableau" width="40" height="40" style="margin: 15px;"/></a>
+  <a href="https://code.visualstudio.com/"><img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" alt="VS Code" width="40" height="40" style="margin: 15px;"/></a>
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.worldvectorlogo.com/logos/c-1.svg" alt="C" width="40" height="40" style="margin: 15px;"/></a>
+  <a href="https://en.wikipedia.org/wiki/C%2B%2B"><img src="https://cdn.worldvectorlogo.com/logos/c.svg" alt="C++" width="40" height="40" style="margin: 15px;"/></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.icons8.com/color/48/000000/power-bi.png" alt="Power BI" width="40" height="40" style="margin: 15px;"/></a>
+  <a href="https://www.blackmagicdesign.com/products/davinciresolve/"><img src="https://img.icons8.com/color/48/000000/davinci-resolve--v1.png" alt="DaVinci Resolve" width="40" height="40" style="margin: 15px;"/></a>
+  <a href="https://www.android.com/studio/"><img src="https://cdn.worldvectorlogo.com/logos/android-studio-1.svg" alt="Android Studio" width="40" height="40" style="margin: 15px;"/></a>
+  <a href="https://git-scm.com/"><img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" alt="Git" width="40" height="40" style="margin: 15px;"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-teams/group-chat-software"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-teams-1.svg" alt="MS Teams" width="40" height="40" style="margin: 15px;"/></a>
+  <a href="https://www.atlassian.com/software/jira"><img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="40" height="40" style="margin: 15px;"/></a>
+  <a href="https://www.microsoft.com/en-us/windows"><img src="https://img.icons8.com/color/48/000000/windows-10.png" alt="Windows" width="40" height="40" style="margin: 15px;"/></a>
+  <a href="https://www.android.com/"><img src="https://img.icons8.com/color/48/000000/android-os.png" alt="Android" width="40" height="40" style="margin: 15px;"/></a>
+  <a href="https://www.adobe.com/products/premiere.html"><img src="https://img.icons8.com/color/48/000000/adobe-premiere-pro.png" alt="Premiere Pro" width="40" height="40" style="margin: 15px;"/></a>
+  <a href="https://www.instagram.com/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="40" height="40" style="margin: 15px;"/></a>
 </p>
 
 
