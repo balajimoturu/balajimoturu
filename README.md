@@ -49,6 +49,71 @@ Concordia University, Montreal, QC, Canada
   <a href="https://www.instagram.com/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="40" height="40" style="margin: 15px;"/></a>
 </p>
 
+---
+
+## 🎬 Dive Into My Creative World
+
+<table align="center">
+  <tr>
+    <!-- Video 1 -->
+    <td align="center" style="padding: 10px;">
+      <a href="https://youtu.be/B6LCK1MHVbI">
+        <img src="https://img.youtube.com/vi/B6LCK1MHVbI/hqdefault.jpg" alt="Video 1 Thumbnail" width="300">
+      </a>
+      <p style="font-family: 'Roboto', sans-serif; font-size: 16px; margin: 10px 0; color: black;">
+        My First Intro Video: Get to Know Me Before I Take You on a Journey
+      </p>
+    </td>
+    <!-- Video 2 -->
+    <td align="center" style="padding: 10px;">
+      <a href="https://youtu.be/SHs4SZgHLEk">
+        <img src="https://img.youtube.com/vi/SHs4SZgHLEk/hqdefault.jpg" alt="Video 2 Thumbnail" width="300">
+      </a>
+      <p style="font-family: 'Roboto', sans-serif; font-size: 16px; margin: 10px 0; color: black;">
+        Trolley Bag Sizes and Types: Which is BEST for You?
+      </p>
+    </td>
+    <!-- Video 3 -->
+    <td align="center" style="padding: 10px;">
+      <a href="https://youtu.be/OukxLEcTucs">
+        <img src="https://img.youtube.com/vi/OukxLEcTucs/hqdefault.jpg" alt="Video 3 Thumbnail" width="300">
+      </a>
+      <p style="font-family: 'Roboto', sans-serif; font-size: 16px; margin: 10px 0; color: black;">
+        💻🍁 Asus Vivobook Pro 15 - i9: Unboxing and Features Explained
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <!-- Video 4 -->
+    <td align="center" style="padding: 10px;">
+      <a href="https://youtu.be/VYV_DSNgQSg">
+        <img src="https://img.youtube.com/vi/VYV_DSNgQSg/hqdefault.jpg" alt="Video 4 Thumbnail" width="300">
+      </a>
+      <p style="font-family: 'Roboto', sans-serif; font-size: 16px; margin: 10px 0; color: black;">
+        🍁 ORIENTATION DAY | CONCORDIA UNIVERSITY
+      </p>
+    </td>
+    <!-- Video 5 -->
+    <td align="center" style="padding: 10px;">
+      <a href="https://youtu.be/EPnyzyf8yos">
+        <img src="https://img.youtube.com/vi/EPnyzyf8yos/hqdefault.jpg" alt="Video 5 Thumbnail" width="300">
+      </a>
+      <p style="font-family: 'Roboto', sans-serif; font-size: 16px; margin: 10px 0; color: black;">
+        A Journey of Exploration | India to Canada | Masters in a French Province
+      </p>
+    </td>
+    <!-- Video 6 -->
+    <td align="center" style="padding: 10px;">
+      <a href="https://youtu.be/AoElljOqYWw">
+        <img src="https://img.youtube.com/vi/AoElljOqYWw/hqdefault.jpg" alt="Video 6 Thumbnail" width="300">
+      </a>
+      <p style="font-family: 'Roboto', sans-serif; font-size: 16px; margin: 10px 0; color: black;">
+        TOP THINGS I DID on MY First Day in Canada 🍁 SIN, OPUS, ID...
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
