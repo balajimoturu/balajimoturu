@@ -1,69 +1,75 @@
-# Hi, I'm Balaji Satya Sri Moturu 👋
+# 👋 Hello, I'm Balaji Satya Sri Moturu!
 
 🎓 **Master of Engineering, Software Engineering (Co-op)**  
 Concordia University, Montreal, QC, Canada  
-📫 Reach me at: balajimoturu2000@gmail.com  
-🌐 [My Website](https://balajimoturu.github.io/) | [LinkedIn](https://www.linkedin.com/in/balajimoturu/)
+
+📫 **Email**: [balajimoturu2000@gmail.com](mailto:balajimoturu2000@gmail.com)  
+🌐 **Portfolio**: [balajimoturu.github.io](https://balajimoturu.github.io/)  
+💼 **LinkedIn**: [balajimoturu](https://www.linkedin.com/in/balajimoturu/)
 
 ---
 
 ## 🚀 About Me
-I'm a full-stack software engineer passionate about building impactful tech solutions. I have experience across front-end, back-end, DevOps, and data science, with a particular focus on full-stack development, cloud computing, and AI/ML.
+
+I’m a passionate software engineer specializing in full-stack development, cloud computing, and data science. With a focus on building efficient, scalable solutions, I bring a unique blend of technical knowledge and creativity to each project.
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
-### 🌐 Frontend Development
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+### 🌐 Frontend
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" alt="HTML5" width="30" height="30"/> HTML  
+  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" alt="CSS3" width="30" height="30"/> CSS  
+  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" alt="JavaScript" width="30" height="30"/> JavaScript  
+  <img src="https://cdn.worldvectorlogo.com/logos/angular-icon.svg" alt="Angular" width="30" height="30"/> Angular  
+  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React" width="30" height="30"/> React  
+</p>
 
-### 💻 Backend Development
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+### 💻 Backend & Databases
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" alt="Node.js" width="30" height="30"/> Node.js  
+  <img src="https://cdn.worldvectorlogo.com/logos/dot-net-core-7.svg" alt=".NET" width="30" height="30"/> .NET  
+  <img src="https://img.icons8.com/color/48/000000/mysql-logo.png" alt="MySQL" width="30" height="30"/> MySQL  
+  <img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" alt="PostgreSQL" width="30" height="30"/> PostgreSQL  
+  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="MongoDB" width="30" height="30"/> MongoDB  
+</p>
 
-### ☁️ Cloud & DevOps
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+### ☁️ DevOps & Cloud
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="AWS" width="30" height="30"/> AWS  
+  <img src="https://cdn.worldvectorlogo.com/logos/microsoft-azure-3.svg" alt="Azure" width="30" height="30"/> Azure  
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" width="30" height="30"/> Docker  
+  <img src="https://img.icons8.com/color/48/000000/kubernetes.png" alt="Kubernetes" width="30" height="30"/> Kubernetes  
+</p>
 
 ### 📊 Data Science & AI/ML
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<p align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" alt="TensorFlow" width="30" height="30"/> TensorFlow    
+  <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="Tableau" width="30" height="30"/> Tableau  
+  <img src="https://cdn.worldvectorlogo.com/logos/power-bi.svg" alt="Power BI" width="30" height="30"/> Power BI  
+</p>
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=balajimoturu&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=balajimoturu&layout=compact&theme=radical)
+## 🌱 Currently Exploring
+
+- **Hyperledger**: Building secure blockchain applications
+- **Kubernetes**: Advanced container orchestration
+- **CI/CD & DevOps**: Scaling applications with modern practices
 
 ---
 
-## 🌱 Currently Learning
-- **Hyperledger**: For secure blockchain applications
-- **Kubernetes**: For advanced container orchestration
-- **Advanced DevOps**: Implementing CI/CD at scale
+## 📫 Let's Connect!
 
----
-
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/balajimoturu/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/balajimoturu)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://balajimoturu.github.io/)
-
----
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/balajimoturu/">
+    <img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" width="30" height="30"/>
+  </a>
+  <a href="https://github.com/balajimoturu">
+    <img src="https://cdn.worldvectorlogo.com/logos/github-icon.svg" alt="GitHub" width="30" height="30"/>
+  </a>
+  <a href="https://balajimoturu.github.io/">
+    <img src="https://cdn.worldvectorlogo.com/logos/firefox-icon.svg" alt="Portfolio" width="30" height="30"/>
+  </a>
+</p>
